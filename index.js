@@ -1,39 +1,7 @@
 (function () {
   "use strict";
 
-  const { renderWidget, GlobalNavbar, AskGuruSuccessModal } = HUIWidgets;
-
-  const renderAskGuruSuccessModal = () => {
-    const data = {
-      title: "Thanks for asking!",
-      description: "We’ll email you when a property expert answers.",
-      imageAltText: "AskGuru Success Logo",
-      isLoggedIn: false,
-      totalPostedQuestions: 0,
-    };
-
-    const config = {
-      shouldShow: true,
-      onHide: () => {},
-      gotoHomeCTA: {
-        name: "Return to AskGuru Home",
-        href: "/",
-      },
-      viewPastQuestionsCTA: {
-        name: "View your past questions",
-        href: "/",
-      },
-    };
-
-    const askGuruSuccessProps = {
-      data,
-      config,
-    };
-
-    const containerElement = document.createElement("div");
-    document.body.append(containerElement);
-    renderWidget(AskGuruSuccessModal, askGuruSuccessProps, containerElement);
-  };
+  const { renderWidget, GlobalNavbar } = HUIWidgets;
 
   const renderGlobalNavbar = () => {
     const navLinks = [
@@ -233,12 +201,6 @@
   };
 
   document.addEventListener("DOMContentLoaded", function () {
-    console.log("document ready");
-
-    // 1. test render askguru modal
-    // renderAskGuruSuccessModal();
-
-    // 2. test render global navbar
     renderGlobalNavbar();
   });
 })();
