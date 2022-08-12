@@ -1,0 +1,1661 @@
+{
+  "sitemap": [
+    [
+      {
+        "title": "PropertyGuru Malaysia",
+        "text": "PropertyGuru Malaysia",
+        "href": "/"
+      },
+      {
+        "title": "Property Reviews",
+        "text": "Property Reviews",
+        "href": "/new-property-launch/reviews"
+      },
+      {
+        "title": "Condo Directory",
+        "text": "Condo Directory",
+        "href": "/condo"
+      },
+      {
+        "title": "Agent Directory",
+        "text": "Agent Directory",
+        "href": "/property-agents"
+      },
+      {
+        "title": "Overseas Properties",
+        "text": "Overseas Properties",
+        "href": "/overseas-property-for-sale"
+      },
+      {
+        "title": "Commercial Properties",
+        "text": "Commercial Properties",
+        "href": "/commercial-property"
+      },
+      {
+        "title": "Auctioned Properties",
+        "text": "Auctioned Properties",
+        "href": "/malaysia-property-auctions"
+      },
+      {
+        "title": "Property Market News",
+        "text": "Property Market News",
+        "href": "/property-news"
+      },
+      {
+        "title": "PropertyGuru Finance",
+        "text": "PropertyGuru Finance",
+        "href": "https://www.propertyguru.com.sg/mortgage",
+        "onlyDesktop": true
+      },
+      {
+        "title": "AgentNet Login",
+        "text": "AgentNet Login",
+        "href": "https://www.agentofferings.propertyguru.com.my/"
+      },
+      {
+        "title": "Sell/Rent Properties",
+        "text": "Sell/Rent Properties",
+        "href": "https://www.agentofferings.propertyguru.com.my/"
+      },
+      {
+        "title": "RSS Feeds",
+        "text": "RSS Feeds",
+        "href": "/rss-feeds"
+      },
+      {
+        "title": "Sitemap",
+        "text": "Sitemap",
+        "href": "/sitemap"
+      }
+    ],
+    [
+      {
+        "title": "Popular Properties For Sale",
+        "text": "Popular Properties For Sale",
+        "href": "#"
+      },
+      {
+        "title": "Properties For Sale in Penang",
+        "text": "Properties For Sale in Penang",
+        "href": "/property-for-sale/in-penang-my07",
+        "onlyDesktop": false
+      },
+      {
+        "title": "Properties For Sale in Kuala Lumpur",
+        "text": "Properties For Sale in Kuala Lumpur",
+        "href": "/property-for-sale/in-kuala-lumpur-my14",
+        "onlyDesktop": false
+      },
+      {
+        "title": "Properties For Sale in Selangor",
+        "text": "Properties For Sale in Selangor",
+        "href": "/property-for-sale/in-selangor-my10"
+      },
+      {
+        "title": "Properties For Sale in Johor Bahru",
+        "text": "Properties For Sale in Johor Bahru",
+        "href": "/property-for-sale/in-johor-bahru-jh016"
+      },
+      {
+        "title": "Properties For Sale in Kota Kinabalu",
+        "text": "Properties For Sale in Kota Kinabalu",
+        "href": "/property-for-sale/in-kota-kinabalu-sb006"
+      },
+      {
+        "title": "Properties For Sale in Petaling Jaya",
+        "text": "Properties For Sale in Petaling Jaya",
+        "href": "/property-for-sale/in-petaling-jaya-sl046"
+      },
+      {
+        "title": "Properties For Sale in Mont Kiara",
+        "text": "Properties For Sale in Mont Kiara",
+        "href": "/property-for-sale/in-mont-kiara-kl034"
+      },
+      {
+        "title": "Properties For Sale in Melaka",
+        "text": "Properties For Sale in Melaka",
+        "href": "/property-for-sale/in-melaka-my04"
+      },
+      {
+        "title": "Properties For Sale in Klang",
+        "text": "Properties For Sale in Klang",
+        "href": "/property-for-sale/in-klang-sl037"
+      },
+      {
+        "title": "Properties For Sale in Subang Jaya",
+        "text": "Properties For Sale in Subang Jaya",
+        "href": "/property-for-sale/in-subang-jaya-sl070"
+      },
+      {
+        "title": "Properties For Sale in Shah Alam",
+        "text": "Properties For Sale in Shah Alam",
+        "href": "/property-for-sale/in-shah-alam-sl066"
+      },
+      {
+        "title": "Properties For Sale in Bukit Jalil",
+        "text": "Properties For Sale in Bukit Jalil",
+        "href": "/property-for-sale/in-bukit-jalil-kl010"
+      },
+      {
+        "title": "Properties For Sale in Puchong",
+        "text": "Properties For Sale in Puchong",
+        "href": "/property-for-sale/in-puchong-sl048"
+      },
+      {
+        "title": "Properties For Sale in Miri",
+        "text": "Properties For Sale in Miri",
+        "href": "/property-for-sale/in-miri-sw031"
+      },
+      {
+        "title": "Properties For Sale in Sarawak",
+        "text": "Properties For Sale in Sarawak",
+        "href": "/property-for-sale/in-sarawak-my13"
+      },
+      {
+        "title": "Properties For Sale in Cyberjaya",
+        "text": "Properties For Sale in Cyberjaya",
+        "href": "/property-for-sale/in-cyberjaya-sl06101"
+      },
+      {
+        "title": "Properties For Sale in Butterworth",
+        "text": "Properties For Sale in Butterworth",
+        "href": "/property-for-sale/in-butterworth-pg025"
+      }
+    ],
+    [
+      {
+        "title": "Popular Properties For Rent",
+        "text": "Popular Properties For Rent",
+        "href": "#"
+      },
+      {
+        "title": "Properties For Rent in Malaysia",
+        "text": "Properties For Rent in Malaysia",
+        "href": "/property-for-rent"
+      },
+      {
+        "title": "Properties For Rent in Penang",
+        "text": "Properties For Rent in Penang",
+        "href": "/property-for-rent/in-penang-my07"
+      },
+      {
+        "title": "Properties For Rent in Kuala Lumpur",
+        "text": "Properties For Rent in Kuala Lumpur",
+        "href": "/property-for-rent/in-kuala-lumpur-my14"
+      },
+      {
+        "title": "Properties For Sale in Selangor",
+        "text": "Properties For Sale in Selangor",
+        "href": "/property-for-rent/in-selangor-my10"
+      },
+      {
+        "title": "Properties For Sale in Johor Bahru",
+        "text": "Properties For Sale in Johor Bahru",
+        "href": "/property-for-rent/in-johor-bahru-jh016"
+      },
+      {
+        "title": "Properties For Sale in Kota Kinabalu",
+        "text": "Properties For Sale in Kota Kinabalu",
+        "href": "/property-for-rent/in-kota-kinabalu-sb006"
+      },
+      {
+        "title": "Properties For Sale in Petaling Jaya",
+        "text": "Properties For Sale in Petaling Jaya",
+        "href": "/property-for-rent/in-petaling-jaya-sl046"
+      },
+      {
+        "title": "Properties For Sale in Mont Kiara",
+        "text": "Properties For Sale in Mont Kiara",
+        "href": "/property-for-rent/in-mont-kiara-kl034"
+      },
+      {
+        "title": "Properties For Sale in Melaka",
+        "text": "Properties For Sale in Melaka",
+        "href": "/property-for-rent/in-melaka-my04"
+      },
+      {
+        "title": "Properties For Sale in Klang",
+        "text": "Properties For Sale in Klang",
+        "href": "/property-for-rent/in-klang-sl037"
+      },
+      {
+        "title": "Properties For Sale in Subang Jaya",
+        "text": "Properties For Sale in Subang Jaya",
+        "href": "/property-for-rent/in-subang-jaya-sl070"
+      },
+      {
+        "title": "Properties For Sale in Shah Alam",
+        "text": "Properties For Sale in Shah Alam",
+        "href": "/property-for-rent/in-shah-alam-sl066"
+      },
+      {
+        "title": "Properties For Sale in Bukit Jalil",
+        "text": "Properties For Sale in Bukit Jalil",
+        "href": "/property-for-rent/in-bukit-jalil-kl010"
+      },
+      {
+        "title": "Properties For Sale in Puchong",
+        "text": "Properties For Sale in Puchong",
+        "href": "/property-for-rent/in-puchong-sl048"
+      },
+      {
+        "title": "Properties For Sale in Miri",
+        "text": "Properties For Sale in Miri",
+        "href": "/property-for-rent/in-miri-sw031"
+      },
+      {
+        "title": "Properties For Sale in Sarawak",
+        "text": "Properties For Sale in Sarawak",
+        "href": "/property-for-rent/in-sarawak-my13"
+      },
+      {
+        "title": "Properties For Sale in Cyberjaya",
+        "text": "Properties For Sale in Cyberjaya",
+        "href": "/property-for-rent/in-cyberjaya-sl06101"
+      },
+      {
+        "title": "Properties For Sale in Butterworth",
+        "text": "Properties For Sale in Butterworth",
+        "href": "/property-for-rent/in-butterworth-pg025"
+      }
+    ],
+    [
+      {
+        "title": "Popular States",
+        "text": "Popular States",
+        "href": "/property-for-rent"
+      },
+      {
+        "title": "Kuala Lumpur Properties",
+        "text": "Kuala Lumpur Properties",
+        "href": "/kuala-lumpur"
+      },
+      {
+        "title": "Selangor Properties",
+        "text": "Selangor Properties",
+        "href": "/selangor"
+      },
+      {
+        "title": "Penang Properties",
+        "text": "Penang Properties",
+        "href": "/penang"
+      },
+      {
+        "title": "Johor Properties",
+        "text": "Johor Properties",
+        "href": "/johor"
+      },
+      {
+        "title": "Malacca Properties",
+        "text": "Malacca Properties",
+        "href": "/melaka"
+      },
+      {
+        "title": "Sabah Properties",
+        "text": "Sabah Properties",
+        "href": "/sabah"
+      },
+      {
+        "title": "Sarawak Properties",
+        "text": "Sarawak Properties",
+        "href": "/sarawak"
+      },
+      {
+        "title": "Negeri Sembilan Properties",
+        "text": "Negeri Sembilan Properties",
+        "href": "/negeri-sembilan"
+      },
+      {
+        "title": "Perak Properties",
+        "text": "Perak Properties",
+        "href": "/perak"
+      },
+      {
+        "title": "Pahang Properties",
+        "text": "Pahang Properties",
+        "href": "/pahang"
+      },
+      {
+        "title": "Putrajaya Properties",
+        "text": "Putrajaya Properties",
+        "href": "/putrajaya"
+      },
+      {
+        "title": "Kedah Properties",
+        "text": "Kedah Properties",
+        "href": "/kedah"
+      },
+      {
+        "title": "Kelantan Properties",
+        "text": "Kelantan Properties",
+        "href": "/kelantan"
+      },
+      {
+        "title": "Terengganu Properties",
+        "text": "Terengganu Properties",
+        "href": "/terengganu"
+      },
+      {
+        "title": "Perlis Properties",
+        "text": "Perlis Properties",
+        "href": "/perlis"
+      }
+    ],
+    [
+      {
+        "title": "Property Resources",
+        "text": "Property Resources",
+        "href": "/property-resources"
+      },
+      {
+        "title": "Mortgage Tools",
+        "text": "Mortgage Tools",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Home Loan Calculator",
+            "text": "Home Loan Calculator",
+            "href": "/mortgage/home-loan-calculator"
+          },
+          {
+            "title": "Affordability Calculator",
+            "text": "Affordability Calculator",
+            "href": "/mortgage/home-loan-eligibility-calculator"
+          },
+          {
+            "title": "Refinancing Calculator",
+            "text": "Refinancing Calculator",
+            "href": "/mortgage/home-loan-refinance-calculator"
+          },
+          {
+            "title": "Home Loan Pre Approval",
+            "text": "Home Loan Pre Approval",
+            "href": "/home-loan-pre-approval"
+          }
+        ]
+      },
+      {
+        "title": "AskGuru",
+        "text": "AskGuru",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Home Selling",
+            "text": "Home Selling",
+            "href": "/property-forum/home-selling/1"
+          },
+          {
+            "title": "Renting Property",
+            "text": "Renting Property",
+            "href": "/property-forum/renting-property/1"
+          },
+          {
+            "title": "Home Buying",
+            "text": "Home Buying",
+            "href": "/property-forum/home-buying/1"
+          },
+          {
+            "title": "Condo",
+            "text": "Condo",
+            "href": "/property-forum/condo-questions/1"
+          },
+          {
+            "title": "General Questions",
+            "text": "General Questions",
+            "href": "/property-forum/general-questions/1"
+          }
+        ]
+      },
+      {
+        "title": "Property Guides ",
+        "text": "Property Guides ",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Buying",
+            "text": "Buying",
+            "href": "/property-guides/buy-property-guide"
+          },
+          {
+            "title": "Selling",
+            "text": "Selling",
+            "href": "/property-guides/sell-property-guide"
+          },
+          {
+            "title": "Renting",
+            "text": "Renting",
+            "href": "/property-guides/to-rent-guide"
+          },
+          {
+            "title": "Home Financing",
+            "text": "Home Financing",
+            "href": "/property-guides/home-loan-finance-guides"
+          },
+          {
+            "title": "Legal & Tax",
+            "text": "Legal & Tax",
+            "href": "/property-guides/legal-property-tax-guides"
+          },
+          {
+            "title": "Guide To Buying Your First House",
+            "text": "Guide To Buying Your First House",
+            "href": "/resources/buy-property-guide/how-to-buy-new-house-malaysia-16637"
+          },
+          {
+            "title": "Downpayments For First Time Home Owners",
+            "text": "Downpayments For First Time Home Owners",
+            "href": "/property-guides/down-payment-guide-malaysia-12406"
+          },
+          {
+            "title": "My First Home Scheme",
+            "text": "My First Home Scheme",
+            "href": "/property-guides/what-is-skim-rumah-pertamaku-my-first-home-scheme-12787"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "Popular Property Types For Sale",
+        "text": "Popular Property Types For Sale",
+        "href": "/#"
+      },
+      {
+        "title": "Apartments for Sale",
+        "text": "Apartments for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Apartments for Sale in Penang",
+            "text": "Apartments for Sale in Penang",
+            "href": "/apartment-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Apartments for Sale in Kuala Lumpur",
+            "text": "Apartments for Sale in Kuala Lumpur",
+            "href": "/apartment-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Apartments for Sale in Selangor",
+            "text": "Apartments for Sale in Selangor",
+            "href": "/apartment-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Apartments for Sale in Johor Bahru",
+            "text": "Apartments for Sale in Johor Bahru",
+            "href": "/apartment-for-sale/in-johor-my01"
+          },
+          {
+            "title": "Apartments for Sale in Kota Kinabalu",
+            "text": "Apartments for Sale in Kota Kinabalu",
+            "href": "/property-for-sale/p/apartment-for-sale-in-kota-kinabalu"
+          },
+          {
+            "title": "Apartments for Sale in Petaling Jaya",
+            "text": "Apartments for Sale in Petaling Jaya",
+            "href": "/apartment-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": " Apartments for Sale in Mont Kiara",
+            "text": " Apartments for Sale in Mont Kiara",
+            "href": "/apartment-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Apartments for Sale in Melaka",
+            "text": "Apartments for Sale in Melaka",
+            "href": "/apartment-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Condos for Sale ",
+        "text": "Condos for Sale ",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Condo for Sale in Penang",
+            "text": "Condo for Sale in Penang",
+            "href": "/condo-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Condo for Sale in Kuala Lumpur",
+            "text": "Condo for Sale in Kuala Lumpur",
+            "href": "/condo-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Condo for Sale in Selangor",
+            "text": "Condo for Sale in Selangor",
+            "href": "/condo-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Condo for Sale in Johor Bahru",
+            "text": "Condo for Sale in Johor Bahru",
+            "href": "/condo-for-sale/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Condo for Sale in Kota Kinabalu",
+            "text": "Condo for Sale in Kota Kinabalu",
+            "href": "/condo-for-sale/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Condo for Sale in Petaling Jaya",
+            "text": "Condo for Sale in Petaling Jaya",
+            "href": "/condo-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Condo for Sale in Mont Kiara",
+            "text": "Condo for Sale in Mont Kiara",
+            "href": "/condo-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Condo for Sale in Melaka",
+            "text": "Condo for Sale in Melaka",
+            "href": "/condo-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Bungalows for Sale",
+        "text": "Bungalows for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Bungalows for Sale in Penang",
+            "text": "Bungalows for Sale in Penang",
+            "href": "/bungalow-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Bungalows for Sale in Kuala Lumpur",
+            "text": "Bungalows for Sale in Kuala Lumpur",
+            "href": "/bungalow-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Bungalows for Sale in Selangor",
+            "text": "Bungalows for Sale in Selangor",
+            "href": "/bungalow-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Bungalows for Sale in Johor Bahru",
+            "text": "Bungalows for Sale in Johor Bahru",
+            "href": "/bungalow-for-sale/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Bungalows for Sale in Kota Kinabalu",
+            "text": "Bungalows for Sale in Kota Kinabalu",
+            "href": "/bungalow-for-sale/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Bungalows for Sale in Petaling Jaya",
+            "text": "Bungalows for Sale in Petaling Jaya",
+            "href": "/bungalow-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Bungalows for Sale in Mont Kiara",
+            "text": "Bungalows for Sale in Mont Kiara",
+            "href": "/bungalow-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Bungalows for Sale in Melaka",
+            "text": "Bungalows for Sale in Melaka",
+            "href": "/bungalow-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Terraced Houses for Sale",
+        "text": "Terraced Houses for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Terraced Houses for Sale in Penang",
+            "text": "Terraced Houses for Sale in Penang",
+            "href": "/terrace-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Terraced Houses for Sale in Kuala Lumpur",
+            "text": "Terraced Houses for Sale in Kuala Lumpur",
+            "href": "/terrace-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Terraced Houses for Sale in Selangor",
+            "text": "Terraced Houses for Sale in Selangor",
+            "href": "/terrace-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Terraced Houses for Sale in Johor Bahru",
+            "text": "Terraced Houses for Sale in Johor Bahru",
+            "href": "/terrace-for-sale/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Terraced Houses for Sale in Kota Kinabalu",
+            "text": "Terraced Houses for Sale in Kota Kinabalu",
+            "href": "/terrace-for-sale/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Terraced Houses for Sale in Petaling Jaya",
+            "text": "Terraced Houses for Sale in Petaling Jaya",
+            "href": "/terrace-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Terraced Houses for Sale in Mont Kiara",
+            "text": "Terraced Houses for Sale in Mont Kiara",
+            "href": "/terrace-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Terraced Houses for Sale in Melaka",
+            "text": "Terraced Houses for Sale in Melaka",
+            "href": "/terrace-for-sale/in-melaka-my04/30"
+          }
+        ]
+      },
+      {
+        "title": "Studio for Sale",
+        "text": "Studio for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Studio for Sale in Penang",
+            "text": "Studio for Sale in Penang",
+            "href": "/studio-apartment-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Studio for Sale in Kuala Lumpur",
+            "text": "Studio for Sale in Kuala Lumpur",
+            "href": "/studio-apartment-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Studio for Sale in Selangor",
+            "text": "Studio for Sale in Selangor",
+            "href": "/studio-apartment-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Studio for Sale in Johor Bahru",
+            "text": "Studio for Sale in Johor Bahru",
+            "href": "/studio-apartment-for-sale/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Studio for Sale in Kota Kinabalu",
+            "text": "Studio for Sale in Kota Kinabalu",
+            "href": "/property-for-sale/p/studio-apartment-for-sale-in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Studio for Sale in Petaling Jaya",
+            "text": "Studio for Sale in Petaling Jaya",
+            "href": "/studio-apartment-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Studio for Sale in Mont Kiara",
+            "text": "Studio for Sale in Mont Kiara",
+            "href": "/studio-apartment-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Studio for Sale in Melaka",
+            "text": "Studio for Sale in Melaka",
+            "href": "/studio-apartment-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Factories for Sale",
+        "text": "Factories for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Factories for Sale in Penang",
+            "text": "Factories for Sale in Penang",
+            "href": "/factory-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Factories for Sale in Kuala Lumpur",
+            "text": "Factories for Sale in Kuala Lumpur",
+            "href": "/factory-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Factories for Sale in Selangor",
+            "text": "Factories for Sale in Selangor",
+            "href": "/factory-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Factories for Sale in Johor Bahru",
+            "text": "Factories for Sale in Johor Bahru",
+            "href": "/factory-for-sale/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Factories for Sale in Kota Kinabalu",
+            "text": "Factories for Sale in Kota Kinabalu",
+            "href": "/factory-for-sale/in-sabah-my12"
+          },
+          {
+            "title": "Factories for Sale in Petaling Jaya",
+            "text": "Factories for Sale in Petaling Jaya",
+            "href": "/factory-for-sale/in-other-sl04699"
+          },
+          {
+            "title": "Factories for Sale in Mont Kiara",
+            "text": "Factories for Sale in Mont Kiara",
+            "href": "/commercial-property/p/factories-for-sale-in-mont-kiara-kl034"
+          },
+          {
+            "title": "Factories for Sale in Melaka",
+            "text": "Factories for Sale in Melaka",
+            "href": "/factory-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Residential Land for Sale",
+        "text": "Residential Land for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Residential Land for Sale in Penang",
+            "text": "Residential Land for Sale in Penang",
+            "href": "/residential-land-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Residential Land for Sale in Kuala Lumpur",
+            "text": "Residential Land for Sale in Kuala Lumpur",
+            "href": "/residential-land-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Residential Land for Sale in Selangor",
+            "text": "Residential Land for Sale in Selangor",
+            "href": "/residential-land-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Residential Land for Sale in Johor Bahru",
+            "text": "Residential Land for Sale in Johor Bahru",
+            "href": "/residential-land-for-sale/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Residential Land for Sale in Kota Kinabalu",
+            "text": "Residential Land for Sale in Kota Kinabalu",
+            "href": "/commercial-property/p/residential-land-for-sale-in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Residential Land for Sale in Petaling Jaya",
+            "text": "Residential Land for Sale in Petaling Jaya",
+            "href": "/residential-land-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Residential Land for Sale in Mont Kiara",
+            "text": "Residential Land for Sale in Mont Kiara",
+            "href": "/residential-land-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Residential Land for Sale in Melaka",
+            "text": "Residential Land for Sale in Melaka",
+            "href": "/residential-land-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Shops for Sale",
+        "text": "Shops for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Shops for Sale in Penang",
+            "text": "Shops for Sale in Penang",
+            "href": "/shops-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Shops for Sale in Kuala Lumpur",
+            "text": "Shops for Sale in Kuala Lumpur",
+            "href": "/shops-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Shops for Sale in Selangor",
+            "text": "Shops for Sale in Selangor",
+            "href": "/shops-for-sale/in-selangor-my10/10"
+          },
+          {
+            "title": "Shops for Sale in Johor Bahru",
+            "text": "Shops for Sale in Johor Bahru",
+            "href": "/shops-for-sale/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Shops for Sale in Kota Kinabalu",
+            "text": "Shops for Sale in Kota Kinabalu",
+            "href": "/shops-for-sale/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Shops for Sale in Petaling Jaya",
+            "text": "Shops for Sale in Petaling Jaya",
+            "href": "/shops-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Shops for Sale in Mont Kiara",
+            "text": "Shops for Sale in Mont Kiara",
+            "href": "/shops-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Shops for Sale in Melaka",
+            "text": "Shops for Sale in Melaka",
+            "href": "/shops-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Offices for Sale",
+        "text": "Offices for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Offices for Sale in Penang",
+            "text": "Offices for Sale in Penang",
+            "href": "/offices-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Offices for Sale in Kuala Lumpur",
+            "text": "Offices for Sale in Kuala Lumpur",
+            "href": "/offices-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Offices for Sale in Selangor",
+            "text": "Offices for Sale in Selangor",
+            "href": "/offices-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Offices for Sale in Johor Bahru",
+            "text": "Offices for Sale in Johor Bahru",
+            "href": "/offices-for-sale/in-johor-my01"
+          },
+          {
+            "title": "Offices for Sale in Kota Kinabalu",
+            "text": "Offices for Sale in Kota Kinabalu",
+            "href": "/offices-for-sale/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Offices for Sale in Petaling Jaya",
+            "text": "Offices for Sale in Petaling Jaya",
+            "href": "/offices-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Offices for Sale in Mont Kiara",
+            "text": "Offices for Sale in Mont Kiara",
+            "href": "/offices-for-sale/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Offices for Sale in Melaka",
+            "text": "Offices for Sale in Melaka",
+            "href": "/offices-for-sale/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Warehouses for Sale",
+        "text": "Warehouses for Sale",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Warehouses for Sale in Penang",
+            "text": "Warehouses for Sale in Penang",
+            "href": "/warehouse-for-sale/in-penang-my07"
+          },
+          {
+            "title": "Warehouses for Sale in Kuala Lumpur",
+            "text": "Warehouses for Sale in Kuala Lumpur",
+            "href": "/warehouse-for-sale/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Warehouses for Sale in Selangor",
+            "text": "Warehouses for Sale in Selangor",
+            "href": "/warehouse-for-sale/in-selangor-my10"
+          },
+          {
+            "title": "Warehouses for Sale in Johor Bahru",
+            "text": "Warehouses for Sale in Johor Bahru",
+            "href": "/warehouse-for-sale/in-johor-my01"
+          },
+          {
+            "title": "Warehouses for Sale in Kota Kinabalu",
+            "text": "Warehouses for Sale in Kota Kinabalu",
+            "href": "/warehouse-for-sale/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Warehouses for Sale in Petaling Jaya",
+            "text": "Warehouses for Sale in Petaling Jaya",
+            "href": "/warehouse-for-sale/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Warehouses for Sale in Mont Kiara",
+            "text": "Warehouses for Sale in Mont Kiara",
+            "href": "/commercial-property/p/warehouse-for-sale-in-mont-kiara-kl034"
+          },
+          {
+            "title": "Warehouses for Sale in Melaka",
+            "text": "Warehouses for Sale in Melaka",
+            "href": "/warehouse-for-sale/in-melaka-my04"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "Popular Property Types For Rent",
+        "text": "Popular Property Types For Rent",
+        "href": "/#"
+      },
+      {
+        "title": "Apartments for Rent",
+        "text": "Apartments for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Apartments for Rent in Penang",
+            "text": "Apartments for Rent in Penang",
+            "href": "/apartment-for-rent/in-penang-my07"
+          },
+          {
+            "title": "Apartments for Rent in Kuala Lumpur",
+            "text": "Apartments for Rent in Kuala Lumpur",
+            "href": "/apartment-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Apartments for Rent in Selangor",
+            "text": "Apartments for Rent in Selangor",
+            "href": "/apartment-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Apartments for Rent in Johor Bahru",
+            "text": "Apartments for Rent in Johor Bahru",
+            "href": "/apartment-for-rent/in-johor-my01"
+          },
+          {
+            "title": "Apartments for Rent in Kota Kinabalu",
+            "text": "Apartments for Rent in Kota Kinabalu",
+            "href": "/property-for-rent/p/apartment-for-sale-in-kota-kinabalu"
+          },
+          {
+            "title": "Apartments for Rent in Petaling Jaya",
+            "text": "Apartments for Rent in Petaling Jaya",
+            "href": "/apartment-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Apartments for Rent in Mont Kiara",
+            "text": "Apartments for Rent in Mont Kiara",
+            "href": "/apartment-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Apartments for Rent in Melaka",
+            "text": "Apartments for Rent in Melaka",
+            "href": "/apartment-for-rent/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Condos for Rent",
+        "text": "Condos for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Condo for Rent in Penang",
+            "text": "Condo for Rent in Penang",
+            "href": "/condo-for-rent/in-penang-my07"
+          },
+          {
+            "title": "Condo for Rent in Kuala Lumpur",
+            "text": "Condo for Rent in Kuala Lumpur",
+            "href": "/condo-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Condo for Rent in Selangor",
+            "text": "Condo for Rent in Selangor",
+            "href": "/condo-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Condo for Rent in Johor Bahru",
+            "text": "Condo for Rent in Johor Bahru",
+            "href": "/condo-for-rent/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Condo for Rent in Kota Kinabalu",
+            "text": "Condo for Rent in Kota Kinabalu",
+            "href": "/condo-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Condo for Rent in Petaling Jaya",
+            "text": "Condo for Rent in Petaling Jaya",
+            "href": "/condo-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Condo for Rent in Mont Kiara",
+            "text": "Condo for Rent in Mont Kiara",
+            "href": "/condo-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Condo for Rent in Melaka",
+            "text": "Condo for Rent in Melaka",
+            "href": "/condo-for-rent/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Rooms for Rent",
+        "text": "Rooms for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Rooms for Rent in Penang",
+            "text": "Rooms for Rent in Penang",
+            "href": "/property-for-rent/p/room-for-rent-in-penang"
+          },
+          {
+            "title": "Rooms for Rent in Kuala Lumpur",
+            "text": "Rooms for Rent in Kuala Lumpur",
+            "href": "/property-for-rent/p/rooms-for-rent-in-kuala-lumpur"
+          },
+          {
+            "title": "Rooms for Rent in Selangor",
+            "text": "Rooms for Rent in Selangor",
+            "href": "/property-for-rent/p/room-for-rent-in-selangor-my10"
+          },
+          {
+            "title": "Rooms for Rent in Johor Bahru",
+            "text": "Rooms for Rent in Johor Bahru",
+            "href": "/property-for-rent/p/room-for-rent-in-johor-bahru-jh016"
+          },
+          {
+            "title": "Rooms for Rent in Kota Kinabalu",
+            "text": "Rooms for Rent in Kota Kinabalu",
+            "href": "/property-for-rent/p/room-for-rent-in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Rooms for Rent in Petaling Jaya",
+            "text": "Rooms for Rent in Petaling Jaya",
+            "href": "/property-for-rent/p/room-for-rent-in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Rooms for Rent in Mont Kiara",
+            "text": "Rooms for Rent in Mont Kiara",
+            "href": "/property-for-rent/p/room-for-rent-mont-kiara/91"
+          },
+          {
+            "title": "Rooms for Rent in Melaka",
+            "text": "Rooms for Rent in Melaka",
+            "href": "/property-for-rent/p/room-for-rent-in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Bungalows for Rent",
+        "text": "Bungalows for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Bungalows for Rent in Penang",
+            "text": "Bungalows for Rent in Penang",
+            "href": "/bungalow-for-rent/in-penang-my07"
+          },
+          {
+            "title": "Bungalows for Rent in Kuala Lumpur",
+            "text": "Bungalows for Rent in Kuala Lumpur",
+            "href": "/bungalow-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Bungalows for Rent in Selangor",
+            "text": "Bungalows for Rent in Selangor",
+            "href": "/bungalow-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Bungalows for Rent in Johor Bahru",
+            "text": "Bungalows for Rent in Johor Bahru",
+            "href": "/bungalow-for-rent/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Bungalows for Rent in Kota Kinabalu",
+            "text": "Bungalows for Rent in Kota Kinabalu",
+            "href": "/bungalow-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Bungalows for Rent in Petaling Jaya",
+            "text": "Bungalows for Rent in Petaling Jaya",
+            "href": "/bungalow-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Bungalows for Rent in Mont Kiara",
+            "text": "Bungalows for Rent in Mont Kiara",
+            "href": "/bungalow-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Bungalows for Rent in Melaka",
+            "text": "Bungalows for Rent in Melaka",
+            "href": "/bungalow-for-rent/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Terraced Houses for Rent",
+        "text": "Terraced Houses for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Terraced Houses for Rent in Penang",
+            "text": "Terraced Houses for Rent in Penang",
+            "href": "/terrace-for-rent/in-penang-my07"
+          },
+          {
+            "title": "Terraced Houses for Rent in Kuala Lumpur",
+            "text": "Terraced Houses for Rent in Kuala Lumpur",
+            "href": "/terrace-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Terraced Houses for Rent in Selangor",
+            "text": "Terraced Houses for Rent in Selangor",
+            "href": "/terrace-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Terraced Houses for Rent in Johor Bahru",
+            "text": "Terraced Houses for Rent in Johor Bahru",
+            "href": "/terrace-for-rent/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Terraced Houses for Rent in Kota Kinabalu",
+            "text": "Terraced Houses for Rent in Kota Kinabalu",
+            "href": "/terrace-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Terraced Houses for Rent in Petaling Jaya",
+            "text": "Terraced Houses for Rent in Petaling Jaya",
+            "href": "/terrace-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Terraced Houses for Rent in Mont Kiara",
+            "text": "Terraced Houses for Rent in Mont Kiara",
+            "href": "/terrace-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Terraced Houses for Rent in Melaka",
+            "text": "Terraced Houses for Rent in Melaka",
+            "href": "/terrace-for-rent/in-melaka-my04/30"
+          }
+        ]
+      },
+      {
+        "title": "Studio for Rent",
+        "text": "Studio for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Studio for Rent in Penang",
+            "text": "Studio for Rent in Penang",
+            "href": "/studio-apartment-for-rent/in-penang-my07"
+          },
+          {
+            "title": "Studio for Rent in Kuala Lumpur",
+            "text": "Studio for Rent in Kuala Lumpur",
+            "href": "/studio-apartment-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Studio for Rent in Selangor",
+            "text": "Studio for Rent in Selangor",
+            "href": "/studio-apartment-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Studio for Rent in Johor Bahru",
+            "text": "Studio for Rent in Johor Bahru",
+            "href": "/studio-apartment-for-rent/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Studio for Rent in Kota Kinabalu",
+            "text": "Studio for Rent in Kota Kinabalu",
+            "href": "/studio-apartment-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Studio for Rent in Petaling Jaya",
+            "text": "Studio for Rent in Petaling Jaya",
+            "href": "/studio-apartment-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Studio for Rent in Mont Kiara",
+            "text": "Studio for Rent in Mont Kiara",
+            "href": "/studio-apartment-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Studio for Rent in Melaka",
+            "text": "Studio for Rent in Melaka",
+            "href": "/studio-apartment-for-rent/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Factories for Rent",
+        "text": "Factories for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Factories for Rent in Penang",
+            "text": "Factories for Rent in Penang",
+            "href": "/factory-for-rent/in-penang-island-pg050"
+          },
+          {
+            "title": "Factories for Rent in Kuala Lumpur",
+            "text": "Factories for Rent in Kuala Lumpur",
+            "href": "/factory-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Factories for Rent Sale in Selangor",
+            "text": "Factories for Rent Sale in Selangor",
+            "href": "/factory-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Factories for Rent Sale in Johor Bahru",
+            "text": "Factories for Rent Sale in Johor Bahru",
+            "href": "/factory-for-rent/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Factories for Rent in Kota Kinabalu",
+            "text": "Factories for Rent in Kota Kinabalu",
+            "href": "/factory-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Factories for Rent in Petaling Jaya",
+            "text": "Factories for Rent in Petaling Jaya",
+            "href": "/factory-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Factories for Rent in Mont Kiara",
+            "text": "Factories for Rent in Mont Kiara",
+            "href": "/factory-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Factories for Rent in Melaka",
+            "text": "Factories for Rent in Melaka",
+            "href": "/factory-for-rent/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Warehouses for Rent",
+        "text": "Warehouses for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Warehouses for Rent in Penang",
+            "text": "Warehouses for Rent in Penang",
+            "href": "/warehouse-for-rent/in-penang-my07"
+          },
+          {
+            "title": " Warehouses for Rent in Kuala Lumpur",
+            "text": " Warehouses for Rent in Kuala Lumpur",
+            "href": "/warehouse-for-rent/in-kl-city-kl028"
+          },
+          {
+            "title": "Warehouses for Rent in Selangor",
+            "text": "Warehouses for Rent in Selangor",
+            "href": "/warehouse-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Warehouses for Rent in Johor Bahru",
+            "text": "Warehouses for Rent in Johor Bahru",
+            "href": "/warehouse-for-rent/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Warehouses for Rent in Kota Kinabalu",
+            "text": "Warehouses for Rent in Kota Kinabalu",
+            "href": "/warehouse-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Warehouses for Rentin Petaling Jaya",
+            "text": "Warehouses for Rentin Petaling Jaya",
+            "href": "/warehouse-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Warehouses for Rent in Mont Kiara",
+            "text": "Warehouses for Rent in Mont Kiara",
+            "href": "/factory-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Warehouses for Rent in Melaka",
+            "text": "Warehouses for Rent in Melaka",
+            "href": "/warehouse-for-rent/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Shops for Rent",
+        "text": "Shops for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Shops for Rent in Penang",
+            "text": "Shops for Rent in Penang",
+            "href": "/shops-for-rent/in-penang-my07"
+          },
+          {
+            "title": "Shops for Rent in Kuala Lumpur",
+            "text": "Shops for Rent in Kuala Lumpur",
+            "href": "/shops-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Shops for Rent in Selangor",
+            "text": "Shops for Rent in Selangor",
+            "href": "/shops-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Shops for Rent in Johor Bahru",
+            "text": "Shops for Rent in Johor Bahru",
+            "href": "/shops-for-rent/in-johor-my01"
+          },
+          {
+            "title": "Shops for Rent in Kota Kinabalu",
+            "text": "Shops for Rent in Kota Kinabalu",
+            "href": "/shops-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "OShops for Rent in Petaling Jaya",
+            "text": "OShops for Rent in Petaling Jaya",
+            "href": "/shops-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Shops for Rent in Mont Kiara",
+            "text": "Shops for Rent in Mont Kiara",
+            "href": "/shops-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Shops for Rent in Melaka",
+            "text": "Shops for Rent in Melaka",
+            "href": "/shops-for-rent/in-melaka-my04"
+          }
+        ]
+      },
+      {
+        "title": "Offices for Rent",
+        "text": "Offices for Rent",
+        "href": "/#",
+        "links": [
+          {
+            "title": "Offices for Rent in Penang",
+            "text": "Offices for Rent in Penang",
+            "href": "/offices-for-rent/in-penang-my07"
+          },
+          {
+            "title": "Offices for Rent in Kuala Lumpur",
+            "text": "Offices for Rent in Kuala Lumpur",
+            "href": "/offices-for-rent/in-kuala-lumpur-my14"
+          },
+          {
+            "title": "Offices for Rent in Selangor",
+            "text": "Offices for Rent in Selangor",
+            "href": "/offices-for-rent/in-selangor-my10"
+          },
+          {
+            "title": "Offices for Rent in Johor Bahru",
+            "text": "Offices for Rent in Johor Bahru",
+            "href": "/offices-for-rent/in-johor-bahru-jh016"
+          },
+          {
+            "title": "Offices for Rent in Kota Kinabalu",
+            "text": "Offices for Rent in Kota Kinabalu",
+            "href": "/offices-for-rent/in-kota-kinabalu-sb006"
+          },
+          {
+            "title": "Offices for Rent in Petaling Jaya",
+            "text": "Offices for Rent in Petaling Jaya",
+            "href": "/offices-for-rent/in-petaling-jaya-sl046"
+          },
+          {
+            "title": "Offices for Rent in Mont Kiara",
+            "text": "Offices for Rent in Mont Kiara",
+            "href": "/offices-for-rent/in-mont-kiara-kl034"
+          },
+          {
+            "title": "Offices for Rent in Melaka",
+            "text": "Offices for Rent in Melaka",
+            "href": "/offices-for-rent/in-melaka-tengah-ml014"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "title": "Top Condos In Malaysia",
+        "text": "Top Condos In Malaysia",
+        "href": "/#"
+      },
+      {
+        "title": "Setia Sky Residences",
+        "text": "Setia Sky Residences",
+        "href": "/condo/setia-sky-residences-285"
+      },
+      {
+        "title": "Verve Suites",
+        "text": "Verve Suites",
+        "href": "/condo/verve-suites-mont-kiara-484"
+      },
+      {
+        "title": "Arte @ Mont Kiara",
+        "text": "Arte @ Mont Kiara",
+        "href": "/condo/arte-mont-kiara-7103"
+      },
+      {
+        "title": "Palm Spring @ Damansara",
+        "text": "Palm Spring @ Damansara",
+        "href": "/condo/palm-spring-damansara-1239"
+      },
+      {
+        "title": "Metropolitan Square",
+        "text": "Metropolitan Square",
+        "href": "/condo/metropolitan-square-1155"
+      },
+      {
+        "title": "Empire Damansara",
+        "text": "Empire Damansara",
+        "href": "/condo/empire-damansara-2077"
+      },
+      {
+        "title": "Nidoz Residence",
+        "text": "Nidoz Residence",
+        "href": "/condo/nidoz-residences-desa-petaling-11690"
+      },
+      {
+        "title": "Lakeview Residence",
+        "text": "Lakeview Residence",
+        "href": "/condo/lakeville-residence-6056"
+      },
+      {
+        "title": "Sky Suites @ KLCC",
+        "text": "Sky Suites @ KLCC",
+        "href": "/condo/sky-suites-klcc-11800"
+      },
+      {
+        "title": "Trefoil @ Setia City",
+        "text": "Trefoil @ Setia City",
+        "href": "/condo/trefoil-setia-city-8084"
+      }
+    ]
+  ],
+  "contacts": [
+    [
+      {
+        "title": "PropertyGuru Group",
+        "text": "PropertyGuru Group",
+        "href": "https://www.propertygurugroup.com"
+      },
+      {
+        "title": "About Us",
+        "text": "About Us",
+        "href": "https://www.propertygurugroup.com/our-company/"
+      },
+      {
+        "title": "Our Products",
+        "text": "Our Products",
+        "href": "https://www.propertygurugroup.com/property-seekers/"
+      },
+      {
+        "title": "Careers",
+        "text": "Careers",
+        "href": "https://www.propertygurugroup.com/joinus/"
+      }
+    ],
+    [
+      {
+        "title": "Contact Us",
+        "text": "Contact Us",
+        "href": "https://www.propertygurugroup.com/contact-us/"
+      },
+      {
+        "title": "Newsroom",
+        "text": "Newsroom",
+        "href": "/media/press-release"
+      },
+      {
+        "title": "Share Feedback",
+        "text": "Share Feedback",
+        "href": "/feedback"
+      }
+    ]
+  ],
+  "copyright": {
+    "text": "© 2022 PropertyGuru International (Malaysia) Sdn. Bhd. All rights reserved",
+    "links": [
+      {
+        "href": "/customer-service/acceptable-use",
+        "text": "Acceptable Use Policy",
+        "title": "Acceptable Use Policy"
+      },
+      {
+        "href": "/customer-service/terms-of-service",
+        "text": "Terms of Service",
+        "title": "Terms of Service"
+      },
+      {
+        "href": "/customer-service/privacy",
+        "text": "Privacy Policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "href": "/customer-service/terms-of-purchase",
+        "text": "Terms of Purchase",
+        "title": "Terms of Purchase"
+      }
+    ]
+  },
+  "countries": {
+    "links": [
+      {
+        "href": "https://www.propertyguru.com.sg",
+        "text": "Singapore",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-singapore.svg"
+      },
+      {
+        "href": "https://www.propertyguru.com.my",
+        "text": "Malaysia",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-malaysia.svg"
+      },
+      {
+        "href": "https://www.rumah.com",
+        "text": "Indonesia",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-indonesia.svg"
+      },
+      {
+        "href": "https://www.ddproperty.com",
+        "text": "Thailand",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-thailand.svg"
+      },
+      {
+        "href": "https://www.realestate.com.au",
+        "text": "Australia",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-australia.svg"
+      },
+      {
+        "href": "https://www.anjuke.com",
+        "text": "China",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-china.svg"
+      },
+      {
+        "href": "https://www.28hse.com",
+        "text": "Hong Kong",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-hongkong.svg"
+      },
+      {
+        "href": "https://batdongsan.com.vn/",
+        "text": "Vietnam",
+        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-vietnam.svg"
+      }
+    ],
+    "current": {
+      "href": "https://www.propertyguru.com.my",
+      "text": "Malaysia",
+      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-malaysia.svg"
+    },
+    "label": "Change Country"
+  },
+  "social": {
+    "left": [
+      {
+        "text": "Try our mobile apps"
+      },
+      {
+        "icon": "pgicon-android",
+        "text": "Android",
+        "name": "Android",
+        "href": "https://play.google.com/store/apps/details?id=com.allproperty.android.consumer.my"
+      },
+
+      {
+        "icon": "pgicon-apple",
+        "text": "IOS",
+        "name": "IOS",
+        "href": "https://apps.apple.com/my/app/propertyguru-malaysia/id487538098"
+      }
+    ],
+    "right": [
+      {
+        "text": "Follow us"
+      },
+      {
+        "icon": "pgicon-facebook",
+        "name": "Facebook",
+        "href": "https://facebook.com/propertyguru.my"
+      },
+
+      {
+        "icon": "pgicon-instagram",
+        "name": "Instagram",
+        "href": "https://www.instagram.com/propertygurumalaysia"
+      },
+      {
+        "icon": "pgicon-youtube",
+        "name": "Youtube",
+        "href": "https://www.youtube.com/user/propertygurumalaysia"
+      },
+      {
+        "icon": "pgicon-linkedin",
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/company/propertyguru"
+      }
+    ]
+  },
+  "markets": [
+    {
+      "href": "https://www.commercialguru.com.sg",
+      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/commercial-guru-logo.svg",
+      "alt": "commercial-guru"
+    },
+    {
+      "href": "https://www.asiapropertyawards.com/en/",
+      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/award-logo.svg",
+      "alt": "award-logo"
+    },
+    {
+      "href": "http://asiarealestatesummit.com",
+      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/summit-logo.svg",
+      "alt": "summit-logo"
+    },
+    {
+      "href": "https://www.asiapropertyawards.com/en/newsroom/",
+      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/property-report-logo.svg",
+      "alt": "pg-report-logo"
+    }
+  ],
+  "seo": {
+    "primary": "<a href='/' title='PropertyGuru.com.my'>PropertyGuru.com.my</a> is Malaysia's leading property site — the best place to search, whether you are investing, buying your own home, or looking for a place to rent. At PropertyGuru, you can find thousands of properties for sale and rent with detailed information about each property, including maps and photos.",
+    "secondary": "We bring you the most comprehensive <a href='/'>real estate</a> selection in the market — the most popular <a href='/condo-for-sale'>condominiums</a> and <a href='/apartment-for-sale'>apartments</a>, <a href='/terrace-for-sale'>landed properties</a> , <a href='/residential-land-for-sale'>residential land</a> and <a href='/commercial-property'>commercial properties</a>. Besides helping you to find your home, PropertyGuru also brings you the most comprehensive guide to <a href='/property-resources'>buying a property in the subsale market</a>,  <a href='/property-guides/the-complete-guide-to-purchasing-a-new-development-property-6959'>buying a newly launched property project</a> and <a href='/property-guides/the-complete-guide-to-buying-a-commercial-property-6956'>buying a commercial property</a>.<br><br>Are you a property agent? Check out our <a href='https://www.agentofferings.propertyguru.com.my/'>attractive advertising packages</a> today.",
+    "actionableText": "Read more"
+  },
+  "search": {
+    "placeholder": "PropertyGuru Search"
+  }
+}
