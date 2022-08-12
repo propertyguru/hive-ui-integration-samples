@@ -164,20 +164,17 @@
     {
       "title": "EN",
       "key": "en",
-      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/uk.svg",
-      "url": "/property-guides"
+      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/uk.svg"
     },
     {
       "title": "BM",
       "key": "ms",
-      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/malaysia.svg",
-      "url": "/bm/panduan-hartanah"
+      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/malaysia.svg"
     },
     {
       "title": "ZH",
       "key": "zh",
-      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/china.svg",
-      "url": "/zh/房地产-指南"
+      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/china.svg"
     }
   ]
 }
