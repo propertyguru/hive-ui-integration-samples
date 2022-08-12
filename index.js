@@ -1,12 +1,23 @@
 (function () {
   const { renderWidget, GlobalNavbar, GlobalFooter } = HUIWidgets;
 
-  // should be retrieved based on host
+  // --- PLEASE NOTE ---
+  // Should be set based on current host, as it will be used
+  // by logoMap.
+  // --- END ---
   const domain = "propertyguru.com.my";
 
   const logoMap = {
     "propertyguru.com.my":
       "https://cdn.pgimgs.com/hive-ui/static/logo/pg-horizontal.svg",
+    "propertyguru.com.sg":
+      "https://cdn.pgimgs.com/hive-ui/static/logo/pg-horizontal.svg",
+    "commercialguru.com.sg":
+      "https://cdn.pgimgs.com/hive-ui/static/logo/commercial-guru.svg",
+    "ddproperty.com":
+      "https://cdn.pgimgs.com/hive-ui/static/logo/dd-horizontal.svg",
+    "batdongsan.com.vn":
+      "https://cdn.pgimgs.com/hive-ui/static/logo/batdongsan.svg",
   };
 
   const containerIds = {
@@ -43,6 +54,7 @@
       locales,
     } = header;
 
+    // prepare the data from config files
     const headerData = {
       logo: logoMap[domain],
       navLinks,
@@ -80,6 +92,7 @@
       },
     };
 
+    // render the widgets
     renderWidget(GlobalNavbar, { data: headerData }, containerIds.header);
     renderWidget(GlobalFooter, { data: footerData }, containerIds.footer);
   };
