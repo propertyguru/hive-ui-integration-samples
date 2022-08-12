@@ -1,5 +1,5 @@
 (function () {
-  const { renderWidget, GlobalNavbar } = HUIWidgets;
+  const { renderWidget, GlobalNavbar, GlobalFooter } = HUIWidgets;
 
   // should be retrieved based on host
   const domain = "propertyguru.com.my";
@@ -29,6 +29,10 @@
     });
   };
 
+  const handleSearch = (q) => {
+    window.location.replace(`https://${domain}/property-for-sale/p/${q}`);
+  };
+
   const render = ({ header, footer }) => {
     const {
       navLinks,
@@ -56,7 +60,28 @@
       },
     };
 
+    const footerData = {
+      contactSegment: {
+        contactLinks: footer.contacts,
+        searchItems: {
+          onSubmit: handleSearch,
+          placeholder: footer.search.placeholder,
+        },
+      },
+      sitemapSegment: footer.sitemap,
+      copyrightSegment: footer.copyright,
+      countrySelectSegment: footer.countries,
+      socialSegment: footer.social,
+      marketSegment: footer.markets,
+      seoSegment: {
+        ...footer.seo,
+        primary: HTMLReactParser(footer.seo.primary),
+        secondary: HTMLReactParser(footer.seo.secondary),
+      },
+    };
+
     renderWidget(GlobalNavbar, { data: headerData }, containerIds.header);
+    renderWidget(GlobalFooter, { data: footerData }, containerIds.footer);
   };
 
   document.addEventListener("DOMContentLoaded", function () {
