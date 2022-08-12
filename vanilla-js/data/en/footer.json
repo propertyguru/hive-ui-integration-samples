@@ -1537,48 +1537,48 @@
       {
         "href": "https://www.propertyguru.com.sg",
         "text": "Singapore",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-singapore.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/singapore.svg"
       },
       {
         "href": "https://www.propertyguru.com.my",
         "text": "Malaysia",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-malaysia.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/malaysia.svg"
       },
       {
         "href": "https://www.rumah.com",
         "text": "Indonesia",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-indonesia.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/indonesia.svg"
       },
       {
         "href": "https://www.ddproperty.com",
         "text": "Thailand",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-thailand.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/thailand.svg"
       },
       {
         "href": "https://www.realestate.com.au",
         "text": "Australia",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-australia.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/australia.svg"
       },
       {
         "href": "https://www.anjuke.com",
         "text": "China",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-china.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/china.svg"
       },
       {
         "href": "https://www.28hse.com",
         "text": "Hong Kong",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-hongkong.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/hong-kong.svg"
       },
       {
         "href": "https://batdongsan.com.vn/",
         "text": "Vietnam",
-        "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-vietnam.svg"
+        "image": "https://cdn.pgimgs.com/hive-ui/static/flags/vietnam.svg"
       }
     ],
     "current": {
       "href": "https://www.propertyguru.com.my",
       "text": "Malaysia",
-      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/flag-malaysia.svg"
+      "image": "https://cdn.pgimgs.com/hive-ui/static/flags/malaysia.svg"
     },
     "label": "Change Country"
   },
@@ -1631,22 +1631,22 @@
   "markets": [
     {
       "href": "https://www.commercialguru.com.sg",
-      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/commercial-guru-logo.svg",
+      "image": "https://cdn.pgimgs.com/hive-ui/static/logo/commercial-guru.svg",
       "alt": "commercial-guru"
     },
     {
       "href": "https://www.asiapropertyawards.com/en/",
-      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/award-logo.svg",
+      "image": "https://cdn.pgimgs.com/hive-ui/static/logo/award.svg",
       "alt": "award-logo"
     },
     {
       "href": "http://asiarealestatesummit.com",
-      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/summit-logo.svg",
+      "image": "https://cdn.pgimgs.com/hive-ui/static/logo/summit.svg",
       "alt": "summit-logo"
     },
     {
       "href": "https://www.asiapropertyawards.com/en/newsroom/",
-      "image": "https://cdn-assets-angel.propertyguru.com/_next/public/assets/headerfooter/property-report-logo.svg",
+      "image": "https://cdn.pgimgs.com/hive-ui/static/logo/property-report.svg",
       "alt": "pg-report-logo"
     }
   ],
