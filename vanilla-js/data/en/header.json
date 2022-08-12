@@ -1,180 +1,182 @@
 {
-  "navLinks": [
-    {
-      "text": "Buy",
-      "url": "/property-for-sale",
-      "icon": "pgicon-search",
-      "tooltip": "Property for Sale in Malaysia"
-    },
-    {
-      "text": "Rent",
-      "url": "/property-for-rent",
-      "icon": "pgicon-search",
-      "tooltip": "Property for Rent in Malaysia"
-    },
-    {
-      "text": "Condos",
-      "url": "/condo",
-      "icon": "pgicon-condo",
-      "tooltip": "Malaysia Condos"
-    },
-    {
-      "text": "New Launches",
-      "url": "/new-property-launch",
-      "icon": "pgicon-newproject",
-      "tooltip": "Malaysia New Launches"
-    },
-    {
-      "text": "Commercial",
-      "url": "/commercial-property",
-      "icon": "pgicon-commercial",
-      "mobileOnly": true,
-      "tooltip": "Commercial Real Estate"
-    },
-    {
-      "text": "Find Agent",
-      "url": "/find-agent",
-      "icon": "pgicon-agent",
-      "tooltip": "Find Malaysia Property Agent"
-    },
-    {
-      "text": "Guides",
-      "url": "/property-guides",
-      "icon": "pgicon-search",
-      "tooltip": "Malaysia Property Guides"
-    }
-  ],
-  "navDropdown": {
-    "title": "More",
-    "tooltip": "More",
-    "items": [
+  "groups": {
+    "navLinks": [
       {
-        "text": "News",
-        "url": "/property-news",
-        "icon": "pgicon-tips",
-        "tooltip": "Malaysia Property Market Information"
+        "text": "Buy",
+        "url": "/property-for-sale",
+        "icon": "pgicon-search",
+        "tooltip": "Property for Sale in Malaysia"
       },
       {
-        "text": "Home Loan Tools",
-        "url": "/resources/mortgage-calculator",
+        "text": "Rent",
+        "url": "/property-for-rent",
         "icon": "pgicon-search",
-        "tooltip": "Home Loan Tools"
+        "tooltip": "Property for Rent in Malaysia"
       },
       {
-        "text": "Overseas",
-        "url": "/overseas-property-for-sale",
-        "icon": "pgicon-search",
-        "tooltip": "Malaysia Overseas Property"
+        "text": "Condos",
+        "url": "/condo",
+        "icon": "pgicon-condo",
+        "tooltip": "Malaysia Condos"
       },
       {
-        "text": "AreaInsider",
-        "url": "/areainsider",
-        "icon": "pgicon-search",
-        "tooltip": "Learn more about the areas in Malaysia"
+        "text": "New Launches",
+        "url": "/new-property-launch",
+        "icon": "pgicon-newproject",
+        "tooltip": "Malaysia New Launches"
       },
       {
-        "text": "AskGuru",
-        "url": "/property-forum",
-        "icon": "pgicon-search",
-        "tooltip": "AskGuru for Malaysia Real Estate Questions and Answers"
+        "text": "Commercial",
+        "url": "/commercial-property",
+        "icon": "pgicon-commercial",
+        "mobileOnly": true,
+        "tooltip": "Commercial Real Estate"
       },
       {
-        "text": "Property Auctions",
-        "url": "/malaysia-property-auctions",
-        "icon": "pgicon-search",
-        "tooltip": "Find Property Auctions"
-      }
-    ]
-  },
-  "agentLinks": {
-    "title": "For Agent",
-    "items": [
-      {
-        "text": "Agent Offerings",
-        "url": "https://www.agentofferings.propertyguru.com.my",
+        "text": "Find Agent",
+        "url": "/find-agent",
         "icon": "pgicon-agent",
-        "tooltip": "Agent Offerings"
+        "tooltip": "Find Malaysia Property Agent"
       },
       {
-        "text": "AgentNet Login",
-        "url": "https://accounts.propertyguru.com.my",
-        "icon": "pgicon-logomark",
-        "tooltip": "AgentNet Login"
+        "text": "Guides",
+        "url": "/property-guides",
+        "icon": "pgicon-search",
+        "tooltip": "Malaysia Property Guides"
       }
-    ]
-  },
-  "quickLinks": {
-    "title": "QuickLinks",
-    "tooltip": "Quick Links",
-    "items": [
-      {
-        "text": "Shortlist",
-        "url": "/short-list",
-        "icon": "pgicon-heart-o",
-        "tooltip": "Shortlist"
-      },
-      {
-        "text": "Hidden Property",
-        "url": "/hidden-property",
-        "icon": "pgicon-hide",
-        "tooltip": "Hidden Property"
-      },
-      {
-        "text": "Saved Searches",
-        "url": "/saved-searches",
-        "icon": "pgicon-bookmark",
-        "loginRequired": true,
-        "tooltip": "Saved Searches"
-      }
-    ]
-  },
-  "myAccountLinks": {
-    "visible": false,
-    "title": "My Account",
-    "tooltip": "My Account",
-    "items": [
-      {
-        "text": "Profile",
-        "url": "/profile",
-        "tooltip": "Profile"
-      },
-      {
-        "text": "Email Preferences",
-        "url": "/profile",
-        "tooltip": "Email Preferences"
-      },
-      {
-        "text": "Enquiries",
-        "url": "/profile",
-        "tooltip": "Enquiries"
-      },
-      {
-        "text": "AskGuru Past Questions",
-        "url": "/profile",
-        "tooltip": "AskGuru Past Questions"
-      },
-      {
-        "text": "Share Feedback",
-        "url": "/profile",
-        "tooltip": "Share Feedback"
-      }
-    ]
-  },
-  "locales": [
-    {
-      "title": "EN",
-      "key": "en",
-      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/uk.svg"
+    ],
+    "navDropdown": {
+      "title": "More",
+      "tooltip": "More",
+      "items": [
+        {
+          "text": "News",
+          "url": "/property-news",
+          "icon": "pgicon-tips",
+          "tooltip": "Malaysia Property Market Information"
+        },
+        {
+          "text": "Home Loan Tools",
+          "url": "/resources/mortgage-calculator",
+          "icon": "pgicon-search",
+          "tooltip": "Home Loan Tools"
+        },
+        {
+          "text": "Overseas",
+          "url": "/overseas-property-for-sale",
+          "icon": "pgicon-search",
+          "tooltip": "Malaysia Overseas Property"
+        },
+        {
+          "text": "AreaInsider",
+          "url": "/areainsider",
+          "icon": "pgicon-search",
+          "tooltip": "Learn more about the areas in Malaysia"
+        },
+        {
+          "text": "AskGuru",
+          "url": "/property-forum",
+          "icon": "pgicon-search",
+          "tooltip": "AskGuru for Malaysia Real Estate Questions and Answers"
+        },
+        {
+          "text": "Property Auctions",
+          "url": "/malaysia-property-auctions",
+          "icon": "pgicon-search",
+          "tooltip": "Find Property Auctions"
+        }
+      ]
     },
-    {
-      "title": "BM",
-      "key": "ms",
-      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/malaysia.svg"
+    "agentLinks": {
+      "title": "For Agent",
+      "items": [
+        {
+          "text": "Agent Offerings",
+          "url": "https://www.agentofferings.propertyguru.com.my",
+          "icon": "pgicon-agent",
+          "tooltip": "Agent Offerings"
+        },
+        {
+          "text": "AgentNet Login",
+          "url": "https://accounts.propertyguru.com.my",
+          "icon": "pgicon-logomark",
+          "tooltip": "AgentNet Login"
+        }
+      ]
     },
-    {
-      "title": "ZH",
-      "key": "zh",
-      "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/china.svg"
-    }
-  ]
+    "quickLinks": {
+      "title": "QuickLinks",
+      "tooltip": "Quick Links",
+      "items": [
+        {
+          "text": "Shortlist",
+          "url": "/short-list",
+          "icon": "pgicon-heart-o",
+          "tooltip": "Shortlist"
+        },
+        {
+          "text": "Hidden Property",
+          "url": "/hidden-property",
+          "icon": "pgicon-hide",
+          "tooltip": "Hidden Property"
+        },
+        {
+          "text": "Saved Searches",
+          "url": "/saved-searches",
+          "icon": "pgicon-bookmark",
+          "loginRequired": true,
+          "tooltip": "Saved Searches"
+        }
+      ]
+    },
+    "myAccountLinks": {
+      "visible": false,
+      "title": "My Account",
+      "tooltip": "My Account",
+      "items": [
+        {
+          "text": "Profile",
+          "url": "/profile",
+          "tooltip": "Profile"
+        },
+        {
+          "text": "Email Preferences",
+          "url": "/profile",
+          "tooltip": "Email Preferences"
+        },
+        {
+          "text": "Enquiries",
+          "url": "/profile",
+          "tooltip": "Enquiries"
+        },
+        {
+          "text": "AskGuru Past Questions",
+          "url": "/profile",
+          "tooltip": "AskGuru Past Questions"
+        },
+        {
+          "text": "Share Feedback",
+          "url": "/profile",
+          "tooltip": "Share Feedback"
+        }
+      ]
+    },
+    "locales": [
+      {
+        "title": "EN",
+        "key": "en",
+        "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/uk.svg"
+      },
+      {
+        "title": "BM",
+        "key": "ms",
+        "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/malaysia.svg"
+      },
+      {
+        "title": "ZH",
+        "key": "zh",
+        "icon": "https://cdn.pgimgs.com/hive-ui/static/flags/china.svg"
+      }
+    ]
+  }
 }

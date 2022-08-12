@@ -36,7 +36,7 @@
       fetchFile(locale, "header"),
       fetchFile(locale, "footer"),
     ]).then((data) => {
-      render({ header: data[0], footer: data[1] });
+      render({ header: data[0].groups, footer: data[1].groups });
     });
   };
 
