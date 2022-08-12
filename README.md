@@ -1,6 +1,10 @@
-# Hive UI Integration Example in Vanilla JS
+# Hive UI Integration Samples
 
-This example contains following widgets with sample configuration in place.
+Different kinds of integration of `hiveUI` e.g. `vanilla-js`, `react`, `server-side` etc.
+
+## `vanilla-js`
+
+This sample contains following widgets with sample configuration in place.
 
 - `GlobalHeader`
 
